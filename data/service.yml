@@ -1,0 +1,38 @@
+enable: true
+title: Nos domaines de compétence
+subtitle: >
+  Les statistiques donne de bonnes bases pour être multi diciplinaire.
+content:
+
+  - icon: ion-android-create
+    name: Tutorat en statistique
+    text: >
+      Apporter une aide dans la compréhension des notions de base de statistique et probabilité.
+
+  - icon: ion-stats-bars
+    name: Consultation statistique
+    text: >
+      Assister les étudiants ou les professionnels d'autres domaines dans la conception des expériences, l'analyse des données et la rédaction des rapports.
+
+  - icon: ion-social-python
+    name: Programmation R
+    text: >
+      Offre des formation et des tutorat dans la programmation en R.
+      
+  - icon: ion-social-html5
+    name: Sites web avec R
+    text: >
+      Créer des sites web statics avec R à partir des template de HUGO.
+
+  - icon: ion-grid
+    name: Analyse des données
+    text: >
+      Manipuler des jeux de données avec SAS ou SPSS pour ressortir des statistiques descriptives pertinentes.
+
+  - icon: ion-leaf
+    name: Communautés écologiques
+    text: >
+      Analyse des communautés écologiques pour ressortir les patrons de regroupement d'espèces.
+
+  
+  

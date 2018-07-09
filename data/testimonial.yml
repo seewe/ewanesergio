@@ -1,0 +1,40 @@
+enable: true
+title: QUELQUES STATISTIQUES ET TEMOIGNAGES À PROPOSE DE NOS TRAVAUX
+paragraph: >
+  Un travail bienfait n'est jamais perdu. Il faut toujours être appliqué dans ce qu'on fait !
+
+numbers:
+  - icon: ion-ios-chatboxes-outline
+    counter: 200
+    text: Consultations Étudiantes
+  - icon: ion-ios-chatboxes-outline
+    counter: 50
+    text: Consultations proffessionnels
+  - icon: ion-ios-glasses-outline
+    counter: 100
+    text: Tutorat
+  - icon: ion-ios-compose-outline
+    counter: 20
+    text: Projets de recherche  
+
+people:
+  - text: >
+      C'est un groupe de professionnel de la statistique. Ils maîtrise leur sujet et rend la compréhension des bussiness très facile.
+    image: img/item-img1.jpg
+    name: Bodieu Adeline
+    role: Médecin pédiatre
+  - text: >
+      Avec l'aide de ce groupe, les notions de base en statistique sont devenues élémentaires pour moi. Mille merci à vous !
+    image: img/item-img1.jpg
+    name: Yaye Sorel
+    role: Étudiant en statistique de l'ISSEA
+  - text: >
+      Un étudiant dynamique et créatif dans les projets de recherche. Il dialogue énormément et cherche à comprendre en cas d'incompréhension !
+    image: img/item-img1.jpg
+    name: Ondo Cléophas
+    role: Professeur à l'ISSEA
+  - text: >
+      Très bon utilisateur de SAS. Ils maîtrisent les bases de la programmation SAS.
+    image: img/item-img1.jpg
+    name: Gilbert Robert
+    role: CEO-SAS
