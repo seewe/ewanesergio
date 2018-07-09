@@ -1,7 +1,10 @@
 title = "Airspace for Hugo"
-baseURL = "https://www.example.com"
-languageCode = "en-us"
+baseURL = "https://ewanesergio.rbind.io/"
+languageCode = "fr-ca"
+DefaultContentLanguage = "fr"
+title = "Ewane Sergio"
 theme = "airspace-hugo"
+googleAnalytics = "UA-111222298-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
