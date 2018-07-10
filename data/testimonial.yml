@@ -21,17 +21,17 @@ people:
   - text: >
       C'est un groupe de professionnel de la statistique. Ils maîtrise leur sujet et rend la compréhension des bussiness très facile.
     image: img/item-img1.jpg
-    name: Bodieu Adeline
+    name: Adeline
     role: Médecin pédiatre
   - text: >
       Avec l'aide de ce groupe, les notions de base en statistique sont devenues élémentaires pour moi. Mille merci à vous !
     image: img/item-img1.jpg
-    name: Yaye Sorel
+    name: Sorel
     role: Étudiant en statistique de l'ISSEA
   - text: >
       Un étudiant dynamique et créatif dans les projets de recherche. Il dialogue énormément et cherche à comprendre en cas d'incompréhension !
     image: img/item-img1.jpg
-    name: Ondo Cléophas
+    name: Cléophas
     role: Professeur à l'ISSEA
   - text: >
       Très bon utilisateur de SAS. Ils maîtrisent les bases de la programmation SAS.
