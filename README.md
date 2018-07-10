@@ -1,2 +1,2 @@
 # ewanesergio
-Le lien du site web de ce depot est https://ewanesergio.rbind.io/
+L'URL de ce projet est https://ewanesergio.rbind.io/
