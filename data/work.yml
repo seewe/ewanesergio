@@ -1,60 +1,106 @@
 enable: true
-title: Quelques uns de nos anciens projets.
-subtitle: Prennez le temps de regarder certainns de nos anciens travaux.
+title: BRÈVE DESCRIPTION DE MES COMPÉTENCES.
+subtitle: Prenez un peu de temps pour voir ce que je sais faire.
 
 portfolio:
-  - category: Branding
-    url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+  - category: THEORY
+    url: "/blog/migrate-from-jekyll/index.html"
+    image: "/img/portfolio/statproba.jpg"
+    name: Basic statistics and probability courses
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Websites
+      Descriptive statistics and probability for ingeniers.
+  - category: EXPERIMENTS
     url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    image: "/img/portfolio/planif.jpg"
+    name: Planning of experiments
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Graphics
+      Advising Phd and master degree students during the planning phase of their experiments.
+  - category: DATA 
+    url: "#"   
+    image: "/img/portfolio/jeudonnees.jpg"
+    name: Data construction.
+    description: >
+      Design mobile application for collecting data and send it in real time to a central office.
+  - category: ANALYSIS        
     url: "#"
-    image: "/img/portfolio/work2.jpg"
-    name: Tesla Motors
+    image: "/img/portfolio/analdonnees.jpg"
+    name: Statistical Analysis of data set.
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Design
+      Using of data analysis method to extract informations in a data set.
+  - category: R
     url: "#"
-    image: "/img/portfolio/work3.jpg"
-    name: Tesla Motors
+    image: "/img/portfolio/R.png"
+    name: R language
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Video
+      Using of R to analise data set, create blog, write reports in Rmarkdown etc...
+  - category: SAS
     url: "#"
-    image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
+    image: "/img/portfolio/SAS.png"
+    name: SAS language
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Using of SAS to build statistical model and compare with R result.
+  - category: SPSS
+    url: "#"
+    image: "/img/portfolio/SPSS.png"
+    name: SPSS language
+    description: >
+      Using of SPSS to make descriptive statistics and builb basic tables or cross tables.
+  - category: MICROSOFT_OFFICE
+    url: "#"
+    image: "/img/portfolio/WEP.png"
+    name: Microsoft Word, Excel and PowerPoint
+    description: >
+      Use Microsoft office to write down my research result or presentations.
+  - category: LATEX
+    url: "#"
+    image: "/img/portfolio/TEX.png"
+    name: Use LATEX to write a report.
+    description: >
+      Use Latex to write articles and share results of my research.
+  - category: SAMPLING
+    url: "#"
+    image: "/img/portfolio/sampling.jpg"
+    name: SAMPLING
+    description: >
+      Develop sampling methods to estimates linear parameters with the smallest variance.
+  - category: MODELISATION
+    url: "#"
+    image: "/img/portfolio/model.png"
+    name: MODELISATION
+    description: >
+      Use TMB package of R to estimate parameters of a mixed regression model for circular data.
+  - category: ÉCOLOGIE
+    url: "#"
+    image: "/img/portfolio/work6.jpg"
+    name: ÉCOLOGY
+    description: >
+      Develope statistical method to understand relations between species in an ecological community.
+  - category: FORESTRY
+    url: "#"
+    image: "/img/portfolio/work7.jpg"
+    name: FORESTRY
+    description: >
+      Develope statistical method to understand the form of some trees.
 clients:
   - image: "/img/clients/clients-logo1.png"
-    url: "#"
+    url: "https://www.adidas.ca/fr"
   - image: "/img/clients/clients-logo2.png"
-    url: "#"
+    url: "https://fr.wikipedia.org/wiki/Walt_Disney_World_Resort"
   - image: "/img/clients/clients-logo3.png"
-    url: "#"
+    url: "https://www.universalstudioshollywood.com/"
   - image: "/img/clients/clients-logo4.png"
-    url: "#"
+    url: "https://www.jaguar.ca/index.html"
   - image: "/img/clients/clients-logo5.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo1.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
+    url: "https://www.cnn.com/"
+  - image: "/img/clients/clients-logo6.png"
+    url: "https://www.americanexpress.com/canada/fr/"
+  - image: "/img/clients/clients-logo7.png"
+    url: "http://www.moris.com.ua/en/main-page/"
+  - image: "/img/clients/clients-logo8.png"
+    url: "https://www.atlantaspeechschool.org/"
+  - image: "/img/clients/clients-logo-9.png"
+    url: "https://www.porsche.com/canada/fr/"
+  - image: "/img/clients/clients-logo10.png"
+    url: "http://www.ufl.edu/"
+  - image: "/img/clients/clients-logo11.png"
+    url: "https://www.ulaval.ca/"  

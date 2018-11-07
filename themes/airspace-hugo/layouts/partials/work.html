@@ -19,7 +19,7 @@
                   {{ range .Site.Data.work.portfolio }}
                     <li class="mix {{ .category }}">
                       <a href="{{ .url }}">
-                        <img src="{{ $.Site.BaseURL }}{{ .image }}" alt="">
+                        <img src="{{ .image }}" alt=""> <!--{{ $.Site.BaseURL }}-->
                         <div class="overly">
                           <div class="position-center">
                             <h2>{{ .name }}</h2>
@@ -47,7 +47,7 @@
           <div id="clients-logo" class="owl-carousel">
             {{ range .Site.Data.work.clients }}
             <div class="clients-logo-img">
-              <a href="{{ .url }}"><img src="{{ $.Site.BaseURL }}{{ .image }}" alt="Features"></a>
+              <a href="{{ .url }}"><img src="{{ .image }}"></a> <!-- {{ $.Site.BaseURL }}  alt="Features"-->
             </div>
             {{ end }}
           </div>

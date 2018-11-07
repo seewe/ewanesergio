@@ -1,8 +1,7 @@
-title = "Airspace for Hugo"
-baseURL = "https://ewanesergio.rbind.io/"
+title = "EWANE SERGIO"
+baseURL = "https://ewanesergio.netlify.com/"
 languageCode = "fr-ca"
 DefaultContentLanguage = "fr"
-title = "Ewane Sergio"
 theme = "airspace-hugo"
 googleAnalytics = "UA-111222298-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -61,32 +60,32 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.slider]
     enable = true
     title = "SERGIO, EWANE EBOUELE"
-    subtitle = "Msc. Statistique"
+    subtitle = "Msc. Statistique (Université Laval)"
     
 
   [params.wrapper]
     enable = true
     title = "À propos de nous"
-    italic = "Je suis un habitué de la statistique. Je cumule actuellement plus de 10 ans de scolarité et d'expérience professionnel dans le domaine de la statistique."
-    paragraph = "De manière plus détaillé, J'ai fait 6 ans de formation à l'ISSEA de Yaoundé (Cameroun) pour obtenir les diplômes de technicien supérieur et d'ingénieur des travaux de la statistique. Deux ans après l'obtention de ces diplômes, J'ai obtenu une maîtrise en statistique à l'université Laval."
+    italic = "Je cumule actuellement huit (08) années de scolarité et trois (03) années d'expérience professionnelle dans le domaine de la statistique."
+    paragraph = " Je suis Ingénieur des Travaux de la Statistique de l'Institut Sous-régional de Statistique et d'Économie Appliquée (ISSEA) de Yaoundé (Cameroun). Deux ans après l'obtention de ce grade, J'ai obtenu ma Maîtrise en statistique à l'université Laval du Québec (Canada)."
 
   [params.blog]
     enable = true
-    title = "Derniers travaux réalisés"
+    title = "Mes derniers projets de recherche"
     subtitle = "Mettez vous à jour avec nous, tout le temps et partout !"
 
   [params.feature]
     enable = true
-    title = "Mes convictions."
-    content = "Ma compétence n'est pas incontournable dans la vie. Sans moi on peut faire. Mais, avec moi se sera mieux fait !"
+    title = "Mes convictions"
+    content = "La statistique est un outil très puissant pour la prise de décision. Sur la base de mon expérience dans le domaine des statistiques, j'ai la conviction qu'il y a encore plein de choses à faire et à découvrir dans ce monde. La statistique aidera certainement à dévoiler tous ces mystères."
     [params.feature.button]
       caption = "Voir mes travaux"
       url = "#"
-
+  
   [params.call]
     enable = true
-    title = "Avec les chiffres on fait plus !"
-    paragraph = "Sans les nombres, tu ne prouves rien. Avec eux, tu peux te tromper. Avec leur maitrise, tu peux rendre la vue à un aveugle du monde des affaires !"
+    title = "Avec les chiffres on fait + !"
+    paragraph = "Sans les chiffres, tu ne prouves rien. Avec eux, tu peux te tromper. En les comprenant, tu peux rendre la vue à un aveugle du monde des affaires !"
 
   [params.contact]
     enable = true
@@ -105,3 +104,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       phone = "Phone: +1 581 578 9352"
     [params.contact.gmaps]
       title = "Localise moi sur Google Maps"
+  
+  

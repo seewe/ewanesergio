@@ -1,8 +1,8 @@
 {
-    "path" : "F:/blogdown Study/ewanesergio",
+    "path" : "F:/blogdown Study/ewanesergio/public",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
