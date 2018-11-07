@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 title = "EWANE SERGIO"
+=======
+title = "Airspace for Hugo"
+>>>>>>> fafe091ea153722a50f41170f7676602ca55582f
 baseURL = "https://ewanesergio.netlify.com/"
 languageCode = "fr-ca"
 DefaultContentLanguage = "fr"

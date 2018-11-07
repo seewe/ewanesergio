@@ -20,6 +20,7 @@ numbers:
 people:
   - text: >
       C'est un groupe de professionnel de la statistique. Ils maîtrise leur sujet et rend la compréhension des bussiness très facile.
+<<<<<<< HEAD
     image: img/item-profilvide.jpg
     url: "#"
     name: Deline Bondieu
@@ -34,6 +35,21 @@ people:
     image: img/item-profilvide.jpg
     name: Le King Rostand
     role: Professeur
+=======
+    image: img/item-img1.jpg
+    name: Adeline
+    role: Médecin pédiatre
+  - text: >
+      Avec l'aide de ce groupe, les notions de base en statistique sont devenues élémentaires pour moi. Mille merci à vous !
+    image: img/item-img1.jpg
+    name: Sorel
+    role: Étudiant en statistique de l'ISSEA
+  - text: >
+      Un étudiant dynamique et créatif dans les projets de recherche. Il dialogue énormément et cherche à comprendre en cas d'incompréhension !
+    image: img/item-img1.jpg
+    name: Cléophas
+    role: Professeur à l'ISSEA
+>>>>>>> fafe091ea153722a50f41170f7676602ca55582f
   - text: >
       Très bon utilisateur de SAS. Ils maîtrisent les bases de la programmation SAS.
     image: img/item-profilvide.jpg
